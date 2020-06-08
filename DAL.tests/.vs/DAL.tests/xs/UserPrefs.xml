@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{E4C93D90-5AEF-4708-9AF3-F0076B744839}|Default">
-  <MonoDevelop.Ide.ItemProperties.DAL.tests FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DAL.tests/TestUserRepository.cs">
+  <MonoDevelop.Ide.ItemProperties.DAL.tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL.tests/BaseRepositoryUnitTests.cs">
     <Files>
-      <File FileName="DAL.tests/TestUserRepository.cs" Line="8" Column="35" />
+      <File FileName="DAL.tests/BaseRepositoryUnitTests.cs" Line="105" Column="59" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DAL.tests" expanded="True">
             <Node name="DAL.tests" expanded="True">
-              <Node name="TestUserRepository.cs" selected="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="BaseRepositoryUnitTests.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -1,19 +1,20 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/Repositories/Impl/CartRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/Entities/customer.cs">
     <Files>
-      <File FileName="DAL/Repositories/Impl/CartRepository.cs" Line="11" Column="2" />
+      <File FileName="DAL/Repositories/Impl/CartRepository.cs" Line="20" Column="6" />
+      <File FileName="DAL/Repositories/Impl/CustomerRepository.cs" />
+      <File FileName="DAL/Repositories/Impl/StoreOrderRepository.cs" />
+      <File FileName="DAL/Repositories/Impl/CartItemRepository.cs" />
+      <File FileName="DAL/Repositories/Impl/BaseRepository.cs" />
+      <File FileName="DAL/Entities/customer.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DAL" expanded="True">
             <Node name="DAL" expanded="True">
-              <Node name="EF" expanded="True" />
-              <Node name="Entities" expanded="True" />
-              <Node name="Repositories" expanded="True">
-                <Node name="Impl" expanded="True">
-                  <Node name="CartRepository.cs" selected="True" />
-                </Node>
+              <Node name="Entities" expanded="True">
+                <Node name="customer.cs" selected="True" />
               </Node>
             </Node>
           </Node>

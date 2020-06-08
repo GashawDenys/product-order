@@ -1,0 +1,4 @@
+/Users/denysgashaw/Projects/product-order/DAL.tests/DAL.tests/obj/Debug/netcoreapp3.1/DAL.tests.csprojAssemblyReference.cache
+/Users/denysgashaw/Projects/product-order/DAL.tests/DAL.tests/obj/Debug/netcoreapp3.1/DAL.tests.csproj.CoreCompileInputs.cache
+/Users/denysgashaw/Projects/product-order/DAL.tests/DAL.tests/obj/Debug/netcoreapp3.1/DAL.tests.AssemblyInfoInputs.cache
+/Users/denysgashaw/Projects/product-order/DAL.tests/DAL.tests/obj/Debug/netcoreapp3.1/DAL.tests.AssemblyInfo.cs
