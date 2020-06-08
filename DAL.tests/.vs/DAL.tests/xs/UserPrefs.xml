@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.DAL.tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL.tests/UnitTest1.cs">
+    <Files>
+      <File FileName="DAL.tests/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
