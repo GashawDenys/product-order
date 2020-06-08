@@ -6,14 +6,14 @@ using DAL.Entities;
 
 namespace DAL.EF
 {
-    public class categoryContext
+    public class product_orderContext
         : DbContext
     {
         public DbSet<cart> Carts { get; set; }
         public DbSet<customer> Customers { get; set; }
         public DbSet<cartItem> CartItems { get; set; }
         public DbSet<storeOrder> StoreOrders { get; set; }
-        public categoryContext(DbContextOptions options)
+        public product_orderContext(DbContextOptions options)
             : base(options) { }
     }
 }
