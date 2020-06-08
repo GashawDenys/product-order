@@ -1,9 +1,20 @@
-﻿<Properties>
-  <MonoDevelop.Ide.ItemProperties.DAL.tests FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DAL.tests/UnitTest1.cs">
+﻿<Properties StartupConfiguration="{E4C93D90-5AEF-4708-9AF3-F0076B744839}|Default">
+  <MonoDevelop.Ide.ItemProperties.DAL.tests FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL.tests/TestUserRepository.cs">
     <Files>
-      <File FileName="DAL.tests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="DAL.tests/TestUserRepository.cs" Line="8" Column="35" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DAL.tests" expanded="True">
+            <Node name="DAL.tests" expanded="True">
+              <Node name="TestUserRepository.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
