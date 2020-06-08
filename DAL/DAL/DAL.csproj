@@ -8,5 +8,10 @@
     <Folder Include="Entities\" />
     <Folder Include="Repositories\" />
     <Folder Include="Repositories\Interfaces\" />
+    <Folder Include="Repositories\Impl\" />
+    <Folder Include="EF\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.4" />
   </ItemGroup>
 </Project>
