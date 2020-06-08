@@ -2,14 +2,16 @@
   <MonoDevelop.Ide.ItemProperties.DAL.tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="DAL.tests/BaseRepositoryUnitTests.cs">
     <Files>
-      <File FileName="DAL.tests/BaseRepositoryUnitTests.cs" Line="105" Column="59" />
+      <File FileName="DAL.tests/BaseRepositoryUnitTests.cs" Line="17" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DAL.tests" expanded="True">
             <Node name="DAL.tests" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="BaseRepositoryUnitTests.cs" selected="True" />
             </Node>
           </Node>
