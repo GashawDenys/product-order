@@ -1,11 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/Repositories/Impl/CustomerRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/UnitOfWork/IUnitOfWork.cs">
     <Files>
       <File FileName="DAL/Repositories/Impl/BaseRepository.cs" Line="19" Column="32" />
       <File FileName="DAL/Repositories/Impl/CartRepository.cs" Line="11" Column="2" />
-      <File FileName="DAL/Repositories/Impl/CartItemRepository.cs" Line="1" Column="1" />
-      <File FileName="DAL/Repositories/Impl/StoreOrderRepository.cs" Line="1" Column="1" />
-      <File FileName="DAL/Repositories/Impl/CustomerRepository.cs" Line="12" Column="33" />
+      <File FileName="DAL/Repositories/Impl/CartItemRepository.cs" Line="6" Column="14" />
+      <File FileName="DAL/Repositories/Impl/StoreOrderRepository.cs" Line="18" Column="1" />
+      <File FileName="DAL/Repositories/Impl/CustomerRepository.cs" Line="9" Column="1" />
+      <File FileName="DAL/UnitOfWork/IUnitOfWork.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,10 +16,11 @@
               <Node name="EF" expanded="True" />
               <Node name="Entities" expanded="True" />
               <Node name="Repositories" expanded="True">
-                <Node name="Impl" expanded="True">
-                  <Node name="CustomerRepository.cs" selected="True" />
-                </Node>
+                <Node name="Impl" expanded="True" />
                 <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="UnitOfWork" expanded="True">
+                <Node name="IUnitOfWork.cs" selected="True" />
               </Node>
             </Node>
           </Node>
